@@ -1,4 +1,9 @@
 # KeyClockImplement
+First Install the KeyCloak through `https://www.keycloak.org`
+After Install plz check the JDK is install or not on machine.
+After Locate a bin folder open cmd promt and run " $ bin\kc.bat" and then run "$ bin\kc.bat start-dev" .
+
+# KeyClockImplement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
 
